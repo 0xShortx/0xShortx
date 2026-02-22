@@ -10,7 +10,7 @@ Running **[Zero Slide](https://zeroslide.co)** — an AI agency focused on DORA,
 |---------|-------------|
 | **[Matproof](https://matproof.com)** | DORA & EU compliance platform for financial firms |
 | **[Whisper](https://get-whisper.com)** | Desktop speech-to-text app (Tauri + local ML) |
-| **[Vantar Group](https://vantargroup.com)** | AI development & consulting |
+| **[Vantar](https://vantar.xyz)** | Neuromorphic computing & spiking neural network research |
 
 ## Stack
 

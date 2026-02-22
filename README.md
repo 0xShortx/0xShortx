@@ -10,7 +10,7 @@ Running **[Zero Slide](https://zeroslide.co)** — an AI agency focused on DORA,
 |---------|-------------|
 | **[Matproof](https://matproof.com)** | DORA & EU compliance platform for financial firms |
 | **[Whisper](https://get-whisper.com)** | Desktop speech-to-text app (Tauri + local ML) |
-| **[@IsThisCompliant](https://x.com/IsThisCompliant)** | Automated sarcastic compliance bot |
+| **[Vantar Group](https://vantargroup.com)** | AI development & consulting |
 
 ## Stack
 
@@ -25,4 +25,3 @@ AI          Claude · Kimi · OpenAI · local Whisper
 ## Where to find me
 
 - 🌐 [zeroslide.co](https://zeroslide.co)
-- 🐦 [@IsThisCompliant](https://x.com/IsThisCompliant)
